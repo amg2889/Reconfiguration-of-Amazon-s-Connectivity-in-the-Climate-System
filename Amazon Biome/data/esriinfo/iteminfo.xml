@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>7c01a6d864fe4158b455c812ab040b1f</name>
+<guid>3FA304D2-5442-4715-88A5-D821ED1C4F8A</guid>
+<catalogpath></catalogpath>
+<snippet></snippet>
+<description>Amazon Biome sensu WWF&lt;div&gt;The Amazon Biome is roughly equivalent of the (usually called) Amazon Rainforest (Floresta Amaz&amp;ocirc;nica or Amaz&amp;ocirc;nia, in Portuguese and Selva Amaz&amp;oacute;nica o Amazon&amp;iacute;a in Spanish)
+The Amazon Biome is mainly a moist broadleaf forest but can also include other vegetation physiognomies like swamp forests and flooded forest, savannas, grasslands and bamboo mixed forests among others.
+&lt;/div&gt;
+
+
+&lt;div&gt;
+&lt;/div&gt;
+
+This dataset was uploaded to Data Basin and is available with additional information at: http://app.databasin.org/app/pages/datasetPage.jsp?id=7c01a6d864fe4158b455c812ab040b1f</description>
+<summary></summary>
+<title>Amazon Biome</title>
+<tags></tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>Shapefile Feature Class</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>.lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>-79.4362945441811</xmin>
+<ymin>-18.0081677455568</ymin>
+<xmax>-44.4910855188375</xmax>
+<ymax>8.6634689550803</ymax>
+</extent>
+<spatialreference>GCS_WGS_1984</spatialreference>
+<accessinformation></accessinformation>
+</ESRI_ItemInformation>
